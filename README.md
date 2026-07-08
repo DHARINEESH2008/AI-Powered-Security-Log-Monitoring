@@ -1,5 +1,11 @@
 # AI-Powered Security Log Monitoring & Threat Detection Dashboard
 
+## 🌐 Live Demo
+
+**Website:** https://cyber-guard.space-z.ai/
+
+Click the link above to explore the AI-Powered Security Log Monitoring & Threat Detection Dashboard.
+
 ## 🛡️ Overview
 AI-Powered Security Log Monitoring & Threat Detection Dashboard is a full-stack cybersecurity web application that automates security log analysis using Artificial Intelligence and Machine Learning. The system detects suspicious activities, classifies security threats, generates real-time alerts, and provides an interactive Security Operations Center (SOC) dashboard for efficient cybersecurity monitoring and incident response.
 
